@@ -17,7 +17,3 @@ Aplikasi ini adalah aplikasi yang memuat dan memberikan informasi tentang kejadi
 - React Native Vector Icon
 - React Native Bottom Sheet
 - Maps
-
-## Screenshot Aplikasi
-
-![Daftar Gempabumi Besar](\Screenshot/SS daftar gempa besar.jpeg)
